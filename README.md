@@ -12,5 +12,5 @@ Both services run separately and communicate over HTTP requests.
 
 ## 📸 Screenshots
 
-- ![User Service & Order Service running](MicroservicesSS.png)  
-- ![Example API requests](MicroservicesSS2.png)  
+- ![API Requests](MicroservicesSS.png)  
+- ![User Service & Order Service running](MIcroservicesSS2.png)  
